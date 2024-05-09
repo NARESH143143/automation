@@ -37,6 +37,8 @@ public void AC() {
 @AfterSuite
 public void AS() {
 	System.out.println("*****DB DISCONCTION******");
+		System.out.println("*****naresh******");
+
 }
 
 }
